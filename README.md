@@ -1,6 +1,8 @@
 # Welcome to your Lovable project
 
 ## Project info
+## Live Demo 🚀
+(https://vercel.com/nitinsingh-01s-projects/ai-resume-analyzer)
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
