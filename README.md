@@ -2,6 +2,8 @@
 
 ## Project info
 ## Live Demo 🚀
+id = m1 
+Live Link:
 (https://vercel.com/nitinsingh-01s-projects/ai-resume-analyzer)
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
